@@ -1,7 +1,0 @@
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\bin\Debug\Pr.r.12.exe.config
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\bin\Debug\Pr.r.12.exe
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\bin\Debug\Pr.r.12.pdb
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.csproj.AssemblyReference.cache
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.csproj.CoreCompileInputs.cache
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.exe
-D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.pdb
