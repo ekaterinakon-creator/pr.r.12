@@ -1,0 +1,21 @@
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\bin\Debug\Pr.r.12.exe.config
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\bin\Debug\Pr.r.12.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\bin\Debug\Pr.r.12.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\Pr.r.12\obj\Debug\Pr.r.12.pdb
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.csproj.AssemblyReference.cache
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.csproj.CoreCompileInputs.cache
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.exe
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.pdb
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\bin\Debug\Pr.r.12.exe.config
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\bin\Debug\Pr.r.12.exe
+C:\Users\dinar\Downloads\pr.r.12-main\pr.r.12-main\Pr.r.12\bin\Debug\Pr.r.12.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\bin\Debug\Pr.r.12.exe.config
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\bin\Debug\Pr.r.12.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\bin\Debug\Pr.r.12.pdb
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.exe
+D:\Users\1213-11\Documents\2-ИСП\Кондратюк Е. С\показ\pr.r.12-main\pr.r.12-main\pr.r.12-main\pr.r.12-main\Pr.r.12\obj\Debug\Pr.r.12.pdb
